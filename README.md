@@ -1,4 +1,4 @@
 - 👋 hi, i’m mo
-- 👀 i’m interested in python, machine learning, and social analytics...
-- 🌱 i’m currently building a social experience game ...
-- 📫 you can reach me on deso [@elzubeir](https://diamondapp.com/u/elzubeir)
+- 👀 i’m interested in software for the purpose of bettering the world
+- 🌱 i’m currently building the world's greatest talent discovery engine
+- 📫 you can reach me on X [@_elzubeir](https://twitter.com/_elzubeir)
