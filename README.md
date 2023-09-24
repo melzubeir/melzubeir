@@ -1,4 +1,4 @@
 - 👋 hi, i’m mo
 - 👀 i’m interested in software for the purpose of bettering the world
-- 🌱 i’m currently building the world's greatest talent discovery engine
+- 🌱 i’m currently building the everything funny app, [FANCROWDr](https://www.fancrowdr.com)
 - 📫 you can reach me on X [@_elzubeir](https://twitter.com/_elzubeir)
