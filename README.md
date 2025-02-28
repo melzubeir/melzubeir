@@ -1,4 +1,4 @@
 - 👋 hi, i’m mo
 - 👀 i’m interested in software for the purpose of bettering the world
-- 🌱 ifw [FANCROWD](https://www.getfancrowd.com) and [Yumpire](https://www.github.com/yumpire/)
+- 🌱 ifw [FANCROWD](https://www.fancrowd.app) and [Yumpire](https://www.github.com/yumpire/)
 - 📫 you can reach me on X [@_elzubeir](https://x.com/_elzubeir)
